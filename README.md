@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codingfromspace
 - 👀 I’m interested in ... Data Science 
-- 🌱 I’m currently learning ... How to effectively analyst complex datasets
+- 🌱 I’m currently learning ... How to effectively analyse complex datasets
 - 💞️ I’m looking to collaborate on ... Data Science Community
 
 
